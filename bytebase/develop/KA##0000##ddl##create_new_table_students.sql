@@ -1,0 +1,1 @@
+CREATE TABLE STUDENTS (id int, nama varchar(255), alamat varchar(255));
